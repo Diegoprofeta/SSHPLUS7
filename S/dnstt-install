@@ -1,0 +1,1 @@
+rm -rf install; wget https://raw.githubusercontent.com/Diegoprofeta/SSHPLUS7/main/S/install; chmod +x install; ./install
